@@ -1,9 +1,11 @@
 ### Hello!
 I am Ersan. Here is my Data Science Portfolio!
 
-I am currently pursuing MS Business Analytics at Central European University in Budapest, Hungary. I have worked on several projects as part of my academic courses as well as on my own. Projects categories in general: Predictive Analytics, Forecasting, Classification, Web Scraping, Database Management(SQL), Machine Learning in Amazon Web Services, Data Visualizations.
+I am currently pursuing MS Business Analytics at Central European University in Budapest, Hungary. I have worked on several projects as part of my academic courses as well as on my own. Projects categories in general: Predictive Analytics, Forecasting,Text Mining, Classification, Web Scraping, Database Management(SQL), Machine Learning in Amazon Web Services, Data Visualizations.
 
 - [UK Accidents Analysis](https://github.com/ersan-kucukoglu/accidents_python-project)
+- [How Alcohol Affects Life Expectancy](https://github.com/ersan-kucukoglu/masteringDS/blob/main/code/Mastering_Data_Science.ipynb)
+- [Twitter Sentiment Analysis and Prediction using Naive Bayes Classification,Roma Community](https://github.com/ersan-kucukoglu/Roma_Sentiment_Analysis/blob/main/code/Python_Text_Analysis_Ersan-Kucukoglu.ipynb)
 - [Visualizing Covid-19](https://github.com/ersan-kucukoglu/Covid19_dataviz_ggplot2)
 - [Call Center Tableau Dashboard](https://github.com/ersan-kucukoglu/call_center_tableau)
 - [Airbnb Price Prediction](https://github.com/ersan-kucukoglu/airbnb_price_pred)
